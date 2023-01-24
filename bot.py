@@ -20,7 +20,7 @@ warnings.filterwarnings("ignore")
 
 uri = "mongodb://admin:admin@ac-gymm2qj-shard-00-00.t2lbsza.mongodb.net:27017,ac-gymm2qj-shard-00-01.t2lbsza.mongodb.net:27017,ac-gymm2qj-shard-00-02.t2lbsza.mongodb.net:27017/?ssl=true&replicaSet=atlas-scssf4-shard-0&authSource=admin&retryWrites=true&w=majority"
 
-token = 'MTA1MzkxMjAzMzU5MjA5NDgzMA.GhX9lQ.ASA1R1VR-ARFYtvth2OrdkYGv5zLeRhFh8zT9U'
+token = 
 
 class AcWeb:
     def __init__(self):
